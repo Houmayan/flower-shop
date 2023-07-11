@@ -156,5 +156,61 @@ body {
 }
 
 .latest-Deals{
+  margin: 0px 240px;
+  border-radius: 8px;
+
+  background-image: url("images/Rectangle9.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* width: fit-content; */
   
+}
+
+.input-btn{
+  /* margin: 280px 0 180px 0px; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 100px;
+  /* padding-bottom: 2000px; */
+  
+}
+
+.input-email{
+  width: 1200px;
+  padding: 22px;
+}
+
+.deal-title{
+  padding-top: 80px;
+}
+
+footer{
+  background-color: #111010;
+  margin-top: 128px;
+}
+
+.footer-container{
+  padding: 50px 0px;
+  text-align: center;
+  color: white;
+}
+
+.flower{
+  color: #E55473;
+font-size: 48px;
+font-weight: 800;
+}
+
+.shop{
+  color: white;
+  font-size: 48px;
+font-weight: 800;
+}
+
+.footer-description{
+  color: rgba(255, 255, 255, 0.90);
 }
