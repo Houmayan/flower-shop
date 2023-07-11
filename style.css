@@ -44,7 +44,7 @@ body {
   border-radius: 8px;
   border: 0;
   background: #e55473;
-  padding: 20px 43px;
+  padding: 18px 40px;
 
   color: #fff;
   font-size: 20px;
@@ -202,6 +202,9 @@ text-decoration-line: underline;
 .input-email {
   width: 1200px;
   padding: 22px;
+  border-radius: 8px;
+background: #FFF;
+border: 0;
 }
 
 .deal-title {
