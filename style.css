@@ -1,0 +1,101 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Lato", sans-serif;
+}
+/* header Section CSS */
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 100px;
+  padding: 0px 180px;
+  background-color: rgba(229, 84, 115, 0.1);
+}
+.header-image {
+  height: 75vh;
+  padding-top: 50px;
+  object-fit: cover;
+}
+
+.top-title {
+  color: #272727;
+  font-size: 80px;
+  font-weight: 800;
+  width: 100%;
+
+  margin-bottom: 32px;
+}
+
+.top-description {
+  color: rgba(39, 39, 39, 0.6);
+  font-size: 18px;
+  font-weight: 400;
+  margin-bottom: 32px;
+}
+
+.btn-primary {
+  border-radius: 8px;
+  border: 0;
+  background: #e55473;
+  padding: 20px 43px;
+
+  color: #fff;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+
+/* Main Section Starts here */
+
+.featured-title{
+color: #272727;
+text-align: center;
+font-size: 40px;
+font-weight: 700;
+margin: 180px 0px 24px 0px;
+}
+
+.featured-description{
+
+color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+margin-bottom: 48px;
+}
+
+.tree{
+  display: flex;
+  justify-content: space-around;
+  align-items: baseline;
+  text-align: center;
+  gap: 24px;
+  margin: 0px 240px;
+  
+}
+
+.flower-tree1{
+  
+  border-radius: 300px 300px 0px 0px;
+  background-color: rgba(167, 33, 98, 0.15);
+  
+  
+}
+.flower-tree2{
+
+  border-radius: 300px 300px 0px 0px;
+background-color: rgba(5, 151, 160, 0.15);
+  
+}
+.flower-tree3{
+
+  border-radius: 300px 300px 0px 0px;
+  background-color: rgba(5, 151, 160, 0.15);
+  
+}
